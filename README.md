@@ -25,7 +25,7 @@ This notebook prepares the dataset by cleaning and formatting it for further ana
 This notebook performs initial exploration and visualization to understand the structure and distribution of the data.
 
 ✅ **How to Run:**
-- Run this notebook after completing data cleaning (Task 2).
+- Run all cells sequentially from top to bottom.
 - Observe the plots and descriptive statistics generated.
 - Modify or extend visualizations based on your analysis needs.
 
@@ -37,7 +37,7 @@ This notebook performs initial exploration and visualization to understand the s
 This notebook applies unsupervised learning (e.g., K-Means) to segment the data into clusters based on feature similarity.
 
 ✅ **How to Run:**
-- Run this after completing EDA to better understand feature relationships.
+- Run all cells sequentially from top to bottom.
 - Use the Elbow Method to find the optimal number of clusters.
 - Review cluster plots and interpret cluster characteristics.
 
